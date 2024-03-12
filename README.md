@@ -7,7 +7,8 @@ def mifuncion(x);
   print("hello World")
 ```
 Esto es una lista:
-- Hola
 - Mundo
 
 Esta es la [sintaxis de markdown](https://es.wikipedia.org/wiki/Markdown), puedes verlo.
+
+Estos son los nuevos cambios.
